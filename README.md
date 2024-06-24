@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HASSAN-FAREED
-- 👀 I’m interested in AI,Machine learning and software development kinda stuffs
+- 👀 I’m interested in AI,Machine learning and Data analytics kinda stuffs
 - 🌱 I’m currently learning to code without help of stack overflow
 - 💞️ I’m looking to collaborate with any good working company for now
 - 📫 How to reach me hassanfareed5522@gmail.com
