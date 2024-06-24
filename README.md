@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HASSAN-FAREED
+- 👋 Hi, I’m @HASSAN-FAREED, PGDM graduate with Computer science engineering background
 - 👀 I’m interested in AI,Machine learning and Data analytics kinda stuffs
 - 🌱 I’m currently learning to code without help of stack overflow
 - 💞️ I’m looking to collaborate with any good working company for now
